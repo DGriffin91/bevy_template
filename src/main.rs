@@ -20,7 +20,7 @@ use debug::Debug;
 
 mod debug;
 
-pub const CLEAR: Color = Color::BLACK;
+pub const CLEAR: Color = Color::YELLOW;
 pub const HEIGHT: f32 = 600.0;
 pub const RESOLUTION: f32 = 16.0 / 9.0;
 
